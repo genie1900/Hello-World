@@ -11,3 +11,6 @@ We downloaded the repository to the MAC
 Now we are modifying the ReadMe file
 This is a new update
 
+writing on the Github site new changes
+
+
